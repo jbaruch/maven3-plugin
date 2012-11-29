@@ -109,14 +109,14 @@ THE SOFTWARE.
             <dependency>
                 <groupId>org.hudsonci.plugins</groupId>
                 <artifactId>maven3-plugin</artifactId>
-                <version>3.0.1a-SNAPSHOT</version>
+                <version>3.0.1a</version>
                 <type>hpi</type>
             </dependency>
 
             <dependency>
                 <groupId>org.hudsonci.plugins</groupId>
                 <artifactId>maven3-plugin</artifactId>
-                <version>3.0.1a-SNAPSHOT</version>
+                <version>3.0.1a</version>
                 <type>jar</type>
             </dependency>
 
